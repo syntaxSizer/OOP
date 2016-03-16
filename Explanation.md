@@ -2,7 +2,7 @@
 
 
 ##The Four principles of Object-Oriented Programming (OOP).
-==========================================================
+
 
 1. Encapsulation
 
@@ -11,6 +11,11 @@
 3. Inheritance
 
 4. Polymorphism.
+
+
+
+
+
 
 
 
