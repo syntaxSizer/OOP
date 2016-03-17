@@ -4,6 +4,7 @@
 ##The Four principles of Object-Oriented Programming (OOP).
 
 
+
 1. Encapsulation
 
 2. Abstraction
@@ -11,6 +12,7 @@
 3. Inheritance
 
 4. Polymorphism.
+
 
 
 
@@ -46,7 +48,7 @@ A benefit of encapsulation is that it can reduce system complexity.
 
 ###Abstraction
 
-Data abstraction and encapuslation are closely tied together, because a simple definition of data abstraction is the development of classes, objects, types in terms of their interfaces and functionality, instead of their implementation details. Abstraction denotes a model, a view, or some other focused representation for an actual item.
+Data abstraction and encapsulation are closely tied together, because a simple definition of data abstraction is the development of classes, objects, types in terms of their interfaces and functionality, instead of their implementation details. Abstraction denotes a model, a view, or some other focused representation for an actual item.
 
 “An abstraction denotes the essential characteristics of an object that distinguish it from all other kinds of object and thus provide crisply defined conceptual boundaries, relative to the perspective of the viewer.
 
